@@ -50,7 +50,7 @@ if uploaded_file is not None:
     st.write("PDF Uploaded Successfully")
 
 submit1 = st.button("Tell me about the Resume")
-submit2 = st.button("How can I improve my skills")
+#submit2 = st.button("How can I improve my skills")
 submit3 = st.button("Percentage match")
 
 
